@@ -1,0 +1,8 @@
+{
+  "name": "basic-card",
+  "version": "0.0.1.33",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#master"
+  }
+}
